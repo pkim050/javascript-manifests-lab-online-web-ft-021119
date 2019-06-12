@@ -19,3 +19,4 @@
 //= require hello_world
 //= require learn
 //= require main
+//= require admin
