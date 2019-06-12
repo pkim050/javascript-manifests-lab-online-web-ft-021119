@@ -1,3 +1,2 @@
-$(document).ready(function() {
-  // I don't do anything...
-});
+//= hello_world
+//= doesn_nothing
